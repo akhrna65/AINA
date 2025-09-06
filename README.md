@@ -1,6 +1,7 @@
 
 
-[![Open in Streamlit](https://github.com/akhrna65/AINA)]
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aina.streamlit.app/)
+
 
 ### How to run it on your own machine
 

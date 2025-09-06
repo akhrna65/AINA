@@ -1,6 +1,6 @@
 
 
-[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://aina.streamlit.app/)
+[![Open in Streamlit](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)][(https://neuroaina.streamlit.app/])
 
 
 ### How to run it on your own machine

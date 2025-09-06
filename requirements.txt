@@ -1,1 +1,9 @@
 streamlit
+scikit-learn
+gdown
+tensorflow
+opencv-python-headless
+joblib
+gdown
+plotly
+pandas

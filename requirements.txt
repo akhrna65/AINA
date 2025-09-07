@@ -7,3 +7,4 @@ joblib
 gdown
 plotly
 pandas
+seaborn

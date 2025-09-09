@@ -15,7 +15,8 @@ This project is a web-based system that classifies children’s visual tasks (co
 
   # 🙏 Acknowledgments
 - Project developed for Master in Technology (Data Science and Analytics), Universiti Teknikal Malaysia Melaka (UTeM)
-- Data inspired by publicly available ASD handwriting/drawing datasets and validated by an occupational therapist from the Centre for Rehabilitation & Special Needs Studies (iCaRehab), Faculty of Health Sciences, Universiti Kebangsaan Malaysia, Kuala Lumpur 
+- Data inspired by publicly available ASD handwriting/drawing datasets and validated by an occupational therapist from the Centre for Rehabilitation & Special Needs Studies (iCaRehab), Faculty of Health Sciences, Universiti Kebangsaan Malaysia, Kuala Lumpur
+- Dataset source: https://www.kaggle.com/datasets/imranliaqat32/autism-spectrum-disorder-in-childrenhandgestures
 
 ### How to run it on your own machine
 
